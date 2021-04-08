@@ -1,0 +1,22 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Nous contacter
+  subtitle : ""
+  content : ""
+
+  # Contact details
+  contact_list:
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Email: artist@visual-creart-fantasy.ch"
+
+
+  # Contact form
+  contact_form:
+    enable : false
+    form_action : "#" #contact form works with https://formspree.io
+    name : "votre nom"
+    email : "Votre email"
+    subject : "Matière"
+    message : "Message"
+    submit : "Soumettre"

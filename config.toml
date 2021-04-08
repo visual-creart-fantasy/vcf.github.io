@@ -1,0 +1,77 @@
+baseURL = "https://visual-creart-fantasy.ch"
+languageCode = "fr-fr"
+title = "Visual Creart Fantasy"
+theme = "meghna-hugo"
+defaultContentLanguage = "fr"
+paginate = 12
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+link = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "https://fonts.googleapis.com/css?family=Anaheim|Quattrocento+Sans:400,700&display=swap"
+
+# js plugins
+[[params.plugins.js]]
+link = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+link = "plugins/lazy-load/lozad.min.js"
+[[params.plugins.js]]
+link = "plugins/google-map/map.js"
+
+[[Languages.fr.menu.main]]
+name = "Créations"
+url = "#portfolio"
+weight = 1
+
+[[Languages.fr.menu.main]]
+name = "Galerie"
+url = "#blog"
+weight = 2
+
+[[Languages.fr.menu.main]]
+name = "Contact"
+url = "#contact"
+weight = 3
+
+
+[params]
+# logo = "images/logo.png"
+description = "La description qui va bien"
+author = "C²J"
+# post share
+post_share = false
+
+[params.cookies]
+enable = false
+expire_days = 1
+
+[[params.social]]
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[Languages.fr]
+languageName = "Fr"
+languageCode = "fr-fr"
+home = "Accueil"
+contentDir = "content"
+copyright = "&copy; 2021 C²J &mdash; Designed by [Themefisher](https://themefisher.com) & Devloped by [Gethugothemes](https://gethugothemes.com/)"
