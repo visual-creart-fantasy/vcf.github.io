@@ -1,4 +1,5 @@
-baseURL = "https://visual-creart-fantasy.ch"
+#baseURL = "https://visual-creart-fantasy.ch"
+baseURL = "https://visual-creart-fantasy.github.io/website"
 languageCode = "fr-fr"
 title = "Visual Creart Fantasy"
 theme = "meghna-hugo"
