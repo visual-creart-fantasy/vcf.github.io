@@ -2,7 +2,7 @@
 cat >data/fr/portfolio.yml <<EOF
 portfolio:
   enable: true
-  title: Nos Créations
+  title: Galerie
   portfolio_item:
 EOF
 
