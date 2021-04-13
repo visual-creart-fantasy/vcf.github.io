@@ -1,4 +1,40 @@
 portfolio:
   enable: true
-  title: Galerie
+  title: À la une
   portfolio_item:
+    - name: "Ouvrir"
+      image: "images/3d/cerveau.jpg"
+      image_webp: "images/3d/cerveau.webp"
+      categories: ["3d"]
+      content: ""
+      link: "./blog/cerveau"
+    - name: "Ouvrir"
+      image: "images/3d/formes3Daposter.jpg"
+      image_webp: "images/3d/formes3Daposter.webp"
+      categories: ["3d"]
+      content: ""
+      link: "./blog/formes3daposter"
+    - name: "Ouvrir"
+      image: "images/3d/pieuvre.jpg"
+      image_webp: "images/3d/pieuvre.webp"
+      categories: ["3d"]
+      content: ""
+      link: "./blog/pieuvre"
+    - name: "Ouvrir"
+      image: "images/photos/IMG_Surf_20210406_221700_processed.jpg"
+      image_webp: "images/photos/IMG_Surf_20210406_221700_processed.webp"
+      categories: ["Photos"]
+      content: ""
+      link: "./blog/img_surf_20210406_221700_processed"
+    - name: "Ouvrir"
+      image: "images/drawings/Dcheval.jpg"
+      image_webp: "images/drawings/Dcheval.webp"
+      categories: ["Drawings"]
+      content: ""
+      link: "./blog/dcheval"
+    - name: "Ouvrir"
+      image: "images/drawings/Dshoei.jpg"
+      image_webp: "images/drawings/Dshoei.webp"
+      categories: ["Drawings"]
+      content: ""
+      link: "./blog/dshoei"
