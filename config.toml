@@ -36,7 +36,7 @@ link = "plugins/lazy-load/lozad.min.js"
 link = "plugins/google-map/map.js"
 
 [[Languages.fr.menu.main]]
-name = "Créations"
+name = "À la une"
 url = "#portfolio"
 weight = 1
 
@@ -52,7 +52,7 @@ weight = 3
 
 
 [params]
-# logo = "images/logo.png"
+logo = "images/logo.png"
 description = "La description qui va bien"
 author = "C²J"
 # post share
@@ -64,11 +64,11 @@ expire_days = 1
 
 [[params.social]]
 icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.instagram.com/creart_fantasy/"
 
-[[params.social]]
-icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+#[[params.social]]
+#icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+#link = "#"
 
 [Languages.fr]
 languageName = "Fr"
